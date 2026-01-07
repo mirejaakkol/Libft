@@ -15,3 +15,8 @@ My own C library: a from-scratch implementation of commonly used standard functi
 ```bash
 make
 make bonus
+```
+
+## Context
+
+This project was implemented as part of the 42 Network curriculum.
